@@ -1,3 +1,7 @@
-snapshots/
 __pycache__/
-*.pyc
+snapshots/
+rclone.conf
+cookies.txt
+*.jpg
+*.mp4
+*.ts
